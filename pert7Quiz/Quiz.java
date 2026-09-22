@@ -1,4 +1,5 @@
 //Nama  : Putri Ramadhani
+//NIM   : 17230496
 //Kelas : 17.2A.24
 //Matkul: PBO (Quiz)
 
